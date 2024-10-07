@@ -9,4 +9,10 @@ export const GlobalStyles = createGlobalStyle`
       color: ${themeValue('colors.black')};
   }
   
+  td {
+      border: 1px solid #444;
+      padding: 4px;
+  }
+  
+  
 `;
